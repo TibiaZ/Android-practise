@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PMM_Practica_01_JavierSanzRozalen</string>
+
+    <!-- STRINGS MAIN ACTIVITY -->
+    <string name="str_nombre">Nombre:</string>
+    <string name="str_campoNombreVacio">(Sin nombre)</string>
+    <string name="str_edad">Edad:</string>
+    <string name="str_campoEdadVacio">(Sin edad)</string>
+    <string name="str_telefono">Teléfono:</string>
+    <string name="str_campoTelefonoVacio">(Sin teléfono)</string>
+    <string name="str_ubicacion">Ubicación:</string>
+    <string name="str_campoUbicacionVacio">(Sin ubicación)</string>
+    <string name="str_botonGoogleMaps">VER EN GOOGLE MAPS</string>
+    <string name="str_botonEditar">EDITAR</string>
+
+    <!-- STRINGS SECOND ACTIVITY-->
+    <string name="str_toggleBtn_ObtenerCoordenadas">Obtener coodernadas</string>
+    <string name="str_toggleBtn_EsconderCoordenadas">Ocultar coodernadas</string>
+    <string name="str_btnAceptar">Aceptar</string>
+    <string name="str_hint_escribirNombre">Escribir nombre</string>
+    <string name="str_hint_escribirEdad">Escribir edad</string>
+    <string name="str_hint_escribirTelefono">Escribir teléfono</string>
+    <string name="str_seekBar_edad">18 años</string>
+    <string name="str_seekBar_change_edad">años</string>
+    <string name="str_latitud">Latitud:</string>
+    <string name="str_longitud">Longitud:</string>
+
+</resources>
